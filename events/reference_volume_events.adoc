@@ -606,7 +606,7 @@ Crítico
 
 
  a| 
-Umbral de advertencia de latencia de volumen ms/op incumplido (ocumVolumeLatencyWarning)
+Umbral de advertencia de latencia del volumen infringido (ocumVolumeLatencyWarning)
  a| 
 Riesgo
  a| 
