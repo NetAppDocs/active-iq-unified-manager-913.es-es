@@ -595,7 +595,7 @@ Advertencia
 
 
  a| 
-Se ha incumplido el umbral crítico de latencia de volumen ms/op (ocumVolumeLatencyIncident).
+Umbral crítico de latencia del volumen superado (ocumVolumeLatencyIncident)
  a| 
 Incidente
  a| 
