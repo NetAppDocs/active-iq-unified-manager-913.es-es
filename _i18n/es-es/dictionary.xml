@@ -973,7 +973,6 @@ Consulte <block ref="4de06821690ec8505ff30e3d01558e54" category="inline-link-mac
   <block id="149e7fe690799c939eb42fd569b85bf1" category="section-title">Visualización de la replicación para las configuraciones de MetroCluster over IP</block>
   <block id="9ec26db79eb1cb03722ca1be8a38ede3" category="paragraph">En el caso de las configuraciones de MetroCluster over IP, el estado de replicación de datos se muestra en la vista de topología de un clúster protegido por MetroCluster mediante IP desde las siguientes vistas del panel de navegación izquierdo de Unified Manager:</block>
   <block id="e6c30c17d4f47b3ee3ca6a46c0cea7e0" category="inline-link-macro">Supervise los problemas de conectividad en MetroCluster por IP</block>
-  <block id="81b018597db40f10192fefede0d1af7f" category="paragraph">Para obtener más información, consulte <block ref="16e7babdd32b153bee5a98150b7128d9" category="inline-link-macro-rx"></block>.</block>
   <block id="9943af04f69bf96138f358b3c1db9507" category="section-title">Visualización de la replicación para configuraciones de MetroCluster over FC</block>
   <block id="c1d47624946f3a469492d8dba1510dc8" category="paragraph">Siga estos pasos para determinar si hay problemas en la replicación de datos para la configuración de MetroCluster over FC.</block>
   <block id="ec42faa3ead49a8b30ba8625345423b8" category="paragraph">Se muestra una lista de los clústeres supervisados.</block>
@@ -1123,14 +1122,11 @@ Las reglas para generar las direcciones de correo electrónico de usuario y cuot
   <block id="a3ec58cb7e9bf89ef726ec0d99330264" category="paragraph">En un servidor físico, añada capacidad a la unidad lógica en la que se ha instalado el servidor de Unified Manager.</block>
   <block id="58e7b60f294b271a4bc9c01cccff27e5" category="paragraph">Siga los pasos del tema de Microsoft:</block>
   <block id="97424b0770e65ad13c37e9c4e0bf64e7" category="inline-link">Extender un volumen básico</block>
-  <block id="3771c84b1045d5ccd8689f90b09f9ac1" category="paragraph"><block ref="3771c84b1045d5ccd8689f90b09f9ac1" category="inline-link-rx"></block></block>
   <block id="bc78f8459cc3f99966ec858559866c73" category="paragraph">En un servidor físico, agregue una unidad de disco duro.</block>
   <block id="ccdf2f614d8c68d046e904c7e5c8f784" category="inline-link">Agregar unidades de disco duro</block>
-  <block id="6f7d162b9b4778023baeb8b3f6e0072c" category="paragraph"><block ref="6f7d162b9b4778023baeb8b3f6e0072c" category="inline-link-rx"></block></block>
   <block id="6c4f6491c1007de757c7587546b655d2" category="paragraph">En un equipo virtual, aumente el tamaño de una partición de disco.</block>
   <block id="1c9690b8244451e91730c655ec71a542" category="paragraph">Siga los pasos del tema de VMware:</block>
   <block id="5254296818aa13c00d8252c86b324630" category="inline-link">Aumentar el tamaño de una partición de disco</block>
-  <block id="301c0a1773cbd034466e002644e3ab94" category="paragraph"><block ref="7d192e27a5a594f0b284619bff944ea7" category="inline-link-rx"></block></block>
   <block id="c1dce6f10dadf928f6fa0b0671fe0232" category="summary">Puede modificar la configuración de un clúster existente, como el nombre de host o la dirección IP, el nombre de usuario, la contraseña y el puerto, mediante el cuadro de diálogo Edit Cluster.</block>
   <block id="e297f5be0dbd0f19cb0474293b7f5c31" category="paragraph">A partir de Unified Manager 9.7, los clústeres se pueden añadir solo mediante HTTPS.</block>
   <block id="b2ddd747b2d6ad6ba943ba56127f8dae" category="list-text">En la página *Cluster Setup*, seleccione el clúster que desea editar y, a continuación, haga clic en *Edit*.</block>
@@ -3170,7 +3166,6 @@ Para obtener más información sobre cómo cargar el archivo de reglas, consulte
   <block id="13e3592e5e441ee49815c64ebd90f10f" category="list-text">Descargue la versión adecuada de OpenJDK (64 bits) del sitio OpenJDK en el sistema de destino.</block>
   <block id="4e6cb3b05eb2ca0baeb29eb6344e5432" category="paragraph">Por ejemplo, descargar<block ref="3ea5e0fd12073d79066798f485ea1222" prefix=" " category="inline-code"></block>.</block>
   <block id="e3ea195a19318267cdc1d27ad9b8642c" category="inline-link-macro">Inicio de sesión de la cuenta de Oracle</block>
-  <block id="4f4395612db3fd87fa732ad4576c0447" category="admonition"> Se necesita una cuenta de Oracle para descargar el archivo. Si no tiene una cuenta de Oracle, vaya a. <block ref="f286dce8bc3d39b38609ac0c11f4f840" category="inline-link-macro-rx"></block> página para crear una.</block>
   <block id="11de7b3c75301534d4163a29dd7de95f" category="list-text">Utilice la consola de servicios de Windows para detener los siguientes servicios de Unified Manager:</block>
   <block id="7d7f701fa4b6dfcc4812f34ebd909b72" category="list-text">Expanda el<block ref="adcdbd79a8d84175c229b192aadc02f2" prefix=" " category="inline-code"></block> archivo.</block>
   <block id="aa2b11ad1dd4cd77a6434da6fa1398a2" category="list-text">Copie los directorios y archivos del resultado<block ref="30c81266c64bb09194fbb76d80c99fc1" prefix=" " category="inline-code"></block> directorio (por ejemplo,<block ref="20ea71c4664ee137228518ed973e20e3" prefix=" " category="inline-code"></block> A la ubicación donde está instalado Java. Ejemplo:<block ref="b7373e296aa12e5caf1e84edf230028c" prefix=" " category="inline-code"></block></block>
@@ -3841,11 +3836,8 @@ El requerido<block ref="586ba478b7ebec665f3df120799b6c2e" prefix=" " category="i
   <block id="f0534e91aef6ef17323964d9d72a8ced" category="doc">Reiniciar la máquina virtual de Unified Manager</block>
   <block id="69ce6df093b147c7a25a04bf00305588" category="list-text">El dispositivo virtual debe estar encendido.</block>
   <block id="a7e118ba2e133d1563cd19a15fe2a116" category="list-text">Debe iniciar sesión en la consola de mantenimiento de Unified Manager como usuario de mantenimiento.</block>
-  <block id="e073e6fe06cef770bc889b346bc6998f" category="paragraph">También puede reiniciar la máquina virtual desde vSphere mediante la opción VMware *Restart Guest*.</block>
   <block id="b6398bd7f47d9122f52612a31a850312" category="list-text">En la consola de mantenimiento, seleccione *Configuración del sistema* &gt; *Reiniciar máquina virtual*.</block>
   <block id="874e5f2c9cf179740df1c1b0a4b0a120" category="list-text">Inicie la interfaz de usuario web de Unified Manager desde el explorador e inicie sesión.</block>
-  <block id="2a3a1fb09f0975179216fde1cbd8dc57" category="inline-link">Referencia de cmdlets de VMware vSphere PowerCLI: Restart-VMGuest</block>
-  <block id="89cc3af736280ef7a3e6fc0e835ec56a" category="paragraph"><block ref="89cc3af736280ef7a3e6fc0e835ec56a" category="inline-link-rx"></block></block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legales</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Los avisos legales proporcionan acceso a las declaraciones de copyright, marcas comerciales, patentes y mucho más.</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Derechos de autor</block>
@@ -8490,9 +8482,6 @@ Para iniciar el iniciador iSCSI de Microsoft en un equipo host de Windows, escri
   <block id="076790dbfc4444ac90e62b970a3c9217" category="list-text">Anotaciones para objetos de almacenamiento</block>
   <block id="53715e24fcf7438bf8bb2d96e3d34de8" category="list-text">Creación de informes y gestión de información de objetos de almacenamiento como capacidad física y lógica, utilización, ahorro de espacio, rendimiento y eventos relacionados</block>
   <block id="42c75971e03568e6221b99dd63d98865" category="list-text">Integración con OnCommand Workflow Automation para ejecutar flujos de trabajo</block>
-  <block id="6750b5b2c975d66813d2ea8952f0bae1" category="paragraph">El almacén de automatización del almacenamiento contiene paquetes de flujos de trabajo de almacenamiento automatizados y certificados de NetApp, desarrollados para su uso con OnCommand Workflow Automation (WFA). Puede descargar los paquetes e importarlos a WFA para ejecutarlos. Los flujos de trabajo automatizados están disponibles aquí:</block>
-  <block id="0479c8cefca250b39d519545313f1b42" category="inline-link">Almacén de automatización del almacenamiento</block>
-  <block id="63f4e00d9f003710efd37fe0fad569e9" category="paragraph"><block ref="63f4e00d9f003710efd37fe0fad569e9" category="inline-link-rx"></block></block>
   <block id="6ff4c53e5106a9fc2d4e0bffb7e86540" category="summary">El quórum y el épsilon son medidas importantes para el estado y la función de los clusters, que, en su conjunto, indican cómo abordan los clusters los desafíos potenciales de comunicaciones y conectividad.</block>
   <block id="a1f791007282e8b031577465882afb8b" category="doc">Comprensión del quórum y del épsilon</block>
   <block id="70ad358ae63d25cdbb1f9a9b0f4c03b6" category="paragraph">_Quórum_ es una condición previa para un clúster en pleno funcionamiento. Cuando un clúster se encuentra en quórum, una mayoría simple de nodos está en buen estado y puede comunicarse entre sí. Cuando se pierde quorum, el clúster pierde la capacidad de realizar las operaciones normales del clúster. Sólo una colección de nodos puede tener quórum a la vez porque todos los nodos comparten colectivamente una única vista de los datos. Por lo tanto, si dos nodos sin comunicación tienen permiso para modificar los datos de maneras divergentes, ya no es posible reconciliar los datos en una única vista de datos.</block>
@@ -11830,8 +11819,6 @@ De forma predeterminada, esta columna está oculta.</block>
   <block id="d1de0a7d7acb6c1e6d558f461b1c08b0" category="summary">Puede configurar una conexión segura entre OnCommand Workflow Automation (WFA) y Unified Manager. La conexión a Workflow Automation le permite usar funciones de protección como flujos de trabajo de configuración de SnapMirror y SnapVault, así como comandos para gestionar las relaciones de SnapMirror.</block>
   <block id="d59db8b6df454b51e95542f8e00577c1" category="doc">Configuración de una conexión entre Workflow Automation y Unified Manager</block>
   <block id="7d4c7aacafff21639e5db97e94a235a5" category="list-text">La versión instalada de Workflow Automation debe ser 5.1 o superior.</block>
-  <block id="0c6e4a96f43d5868275a60909a3a24fc" category="inline-link">PAQUETE WFA para gestionar ONTAP</block>
-  <block id="a651f3180f355ff52e480a3a6a43c122" category="paragraph">El «paquete WFA para gestionar Clustered Data ONTAP» se incluye en WFA 5.1, por lo que no es necesario descargar este paquete del almacén de automatización del almacenamiento de NetApp e instalarlo por separado en su servidor WFA, tal y como se requería en el pasado.   <block ref="33bb079f56da49206dfe05941d30882d" category="inline-link-rx"></block></block>
   <block id="5b7d25b9e226028347921818ce714ea3" category="list-text">Debe tener el nombre del usuario de la base de datos que ha creado en Unified Manager para admitir conexiones de WFA y Unified Manager.</block>
   <block id="0baffa2d6dab374e8ae870aa23680370" category="paragraph">Este usuario de la base de datos debe haber sido asignado el rol de usuario del Esquema de integración.</block>
   <block id="209a170f4735b61e63946462f4cc839b" category="list-text">Debe tener asignado la función de administrador o de arquitecto en Workflow Automation.</block>
@@ -12031,4 +12018,14 @@ De forma predeterminada, esta columna está oculta.</block>
   <block id="323f966c65a63cb769e4f899cb19451f" category="paragraph">Si una operación de restauración falla entre clústeres de Cloud Volumes ONTAP HA con un error NDMP, es posible que deba agregar una ruta de AWS explícita en el clúster de destino para que este pueda comunicarse con el LIF de administración del clúster del sistema de origen. Este paso de configuración se realiza mediante la consola de NetApp .</block>
   <block id="601bd9ca04dd14b95c529c358a4d32e5" category="sidebar">Documentación de Active IQ Unified Manager</block>
   <block id="0dd1de1695b4d51ee336c5594c679796" category="sidebar">Active IQ Unified Manager (Unified Manager, y anteriormente OnCommand Unified Manager) te permite supervisar y gestionar el estado y el rendimiento de tus sistemas de almacenamiento ONTAP desde una sola interfaz. Esta biblioteca de documentación incluye información para la versión 9.13. Active IQ Unified Manager (Unified Manager, y anteriormente OnCommand Unified Manager) te permite supervisar y gestionar el estado y el rendimiento de tus sistemas de almacenamiento ONTAP desde una sola interfaz. Esta biblioteca de documentación incluye información para la versión 9.13.</block>
+  <block id="42429633f87d83134a274916f6a034c2" category="paragraph"><block ref="42429633f87d83134a274916f6a034c2" category="inline-link-rx"></block></block>
+  <block id="7735c39e24fb37c1d079ba9e3a91c264" category="paragraph"><block ref="7735c39e24fb37c1d079ba9e3a91c264" category="inline-link-rx"></block></block>
+  <block id="7c84ac4946087f09b4a17998f1e830e8" category="paragraph"><block ref="7c84ac4946087f09b4a17998f1e830e8" category="inline-link-rx"></block></block>
+  <block id="af050e52c447cd52b4b2f1ffdc032f19" category="inline-link">Descarga de WFA</block>
+  <block id="d642dcc633390c2d9f210673280016ac" category="paragraph">El "`WFA pack for managing Clustered Data ONTAP`" está incluido en WFA 5.1, así que no necesitas descargar este pack de la NetAppStorage Automation Store ni instalarlo por separado en tu servidor WFA como se requería antes.<block ref="205df40c4c09810da80912824982d64d" category="inline-link-rx"></block></block>
+  <block id="b51ca7d8abeeddcb10f579ebf26d482d" category="paragraph"><block ref="b51ca7d8abeeddcb10f579ebf26d482d" category="inline-link-rx"></block></block>
+  <block id="23fc5f285866f9923f82c49b366b4bfa" category="inline-link">Restart-VMGuest cmdlet en la referencia de Broadcom VMware vSphere PowerCLI CMDLET.</block>
+  <block id="2923533b9f166644f807ccd4cdd652f4" category="paragraph">También puedes reiniciar la máquina virtual desde vSphere usando la opción *Restart Guest* de VMware. Consulta la<block ref="a33f828e317a613e852412bb653667c4" category="inline-link-rx"></block></block>
+  <block id="beaebf17f78286bd5f1e620cf360cf26" category="admonition">Se necesita una cuenta Oracle para descargar el archivo. Si no tienes una cuenta Oracle, ve a la página <block ref="55cce93bb9914d623967628ae7efe815" category="inline-link-macro-rx"></block> para crear una.</block>
+  <block id="b17c7eb3d307c287fd5300da706cdc62" category="paragraph">Para más información, consulta <block ref="60444ca73da53841cba391c890082cfa" category="inline-link-macro-rx"></block>.</block>
 </blocks>
